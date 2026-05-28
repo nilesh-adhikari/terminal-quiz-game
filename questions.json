@@ -1,0 +1,16 @@
+[
+    {
+        "question": "What is the symbol for Gold?",
+        "options": ["Go", "Gd", "Au", "Ag"],
+        "answer": "Au",
+        "difficulty": "easy",
+        "category": "science"
+    },
+    {
+        "question": "Who directed The Dark Knight?",
+        "options": ["Spielberg", "Nolan", "Scorsese", "Tarantino"],
+        "answer": "Nolan",
+        "difficulty": "medium",
+        "category": "movies"
+    }
+]
